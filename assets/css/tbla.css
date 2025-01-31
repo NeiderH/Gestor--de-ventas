@@ -1,0 +1,11 @@
+/* Tablas */
+.tb{
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 160px;
+    border-radius: 5px;
+    padding: 50px;
+    width: 80%;
+    height: 50%;
+    background-color: rgba(221, 205, 176, 0.744);
+}
